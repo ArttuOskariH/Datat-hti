@@ -1,4 +1,4 @@
-# Datat-hti
+# Datatahti
 Kilpailu koodit
 
 T.1
